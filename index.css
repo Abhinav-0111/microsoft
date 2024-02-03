@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bodystyle {
+  width: 99.5%;
+  margin: 0 auto;
+}
+
+.logostyle {
+  height: 23px;
+  margin-bottom: 0.5rem;
+  margin-right: 0.6rem;
+}
+
+.navbar {
+  width: 90%;
+  margin: 0 auto;
+  background-color: white !important;
+
+}
+
+/* .nav-item .nav-link:before{
+content: "";
+position: absolute;
+top: 110%;
+left:0;
+width: 0;
+height: 2px;
+border-bottom: 2px solid black;
+transition: all 0.3s linear;
+}
+.nav-item .nav-link:hover:before{
+width: 100%;
+} */
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+.nav-link {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.navbar-nav {
+  gap: 15px;
+}
+
+.fa-solid {
+  font-size: 1rem !important;
+}
+
+.fa-regular {
+  font-size: 1.1rem !important;
+}
+
+.carousel-caption {
+  color: black !important;
+
+
+}
+
+.btn1 {
+  padding: 0.9vh 2vh;
+  background-color: #0067b8;
+  color: white;
+  font-weight: 600;
+  border: none;
+  position: absolute;
+  left: 0;
+}
+
+.carousel-item {
+  position: relative;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 28%;
+  left: 12% !important;
+}
+
+.carousel-caption h2 {
+  text-align: left;
+  font-size: 2.4rem;
+}
+
+.carousel-caption p {
+  text-align: left;
+}
+
+.btn2 {
+  text-decoration: none;
+  color: #0067b8;
+  font-weight: 600;
+}
+
+.card-text {
+  font-weight: 400 !important;
+}
+
+.card-title {
+  font-size: 1.9rem;
+}
+
+main {
+  margin: 60px 0;
+  padding: 0 4rem;
+}
+
+.card {
+  border: none;
+  width: 21rem !important;
+  cursor: pointer !important;
+}
+
+.ms-style {
+  /* width: 100%; */
+  height: 450px;
+  background-image: url("micro7.jpg");
+  display: flex;
+  align-items: center;
+  color: white;
+  margin: 60px 0;
+  padding: 0 6rem;
+  cursor: pointer;
+  ;
+}
+
+.btn3 {
+  padding: 0.9vh 2vh;
+  background-color: #0067b8;
+  color: white;
+  font-weight: 600;
+  border: none;
+}
+
+.section2 main h3 {
+  font-weight: 600;
+  font-size: 2.4rem;
+}
+
+.socialsec {
+  margin-bottom: 40px;
+}
+
+.para {
+  font-size: 1.2rem;
+}
+
+/* .fa-youtube{
+  color: red;
+} */
+.fa-brands {
+  color: black;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 40px 0;
+}
+
+footer li {
+  list-style: none;
+
+}
+
+footer a {
+  text-decoration: none;
+  color: #818181;
+  font-size: 0.8rem;
+}
+
+.row p {
+  margin-left: 2rem;
+  font-weight: 500;
+}
+
+.footerbtn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footerbtn p {
+  color: #818181;
+  font-size: 0.8rem;
+}
+
+.mainfooter .row {
+  margin-top: 5rem;
+  padding: 0 5rem;
+}
+
+.row {
+  margin-top: 1.2rem;
+}
+
+.main1 {
+  width: 90%;
+}
